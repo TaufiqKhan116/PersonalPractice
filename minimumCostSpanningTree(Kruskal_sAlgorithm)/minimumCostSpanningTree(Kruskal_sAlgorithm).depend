@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584581651 source:g:\programming\2nd_year\even\personalpractice\minimumcostspanningtree(kruskal_salgorithm)\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

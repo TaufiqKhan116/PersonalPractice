@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584366609 source:g:\programming\2nd_year\even\personalpractice\1knapsack(greedy_approach)\0\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
